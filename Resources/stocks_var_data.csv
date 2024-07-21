@@ -1,0 +1,505 @@
+,Percentage_VaR @90%,Percentage_VaR @95%,Percentage_VaR @99%
+S&P 500,-71.07,-78.83,-88.85
+3M,-84.0,-89.17,-94.95
+A. O. Smith,-90.55,-94.04,-97.63
+Abbott,-82.35,-88.31,-94.55
+AbbVie,-90.35,-93.89,-97.68
+Accenture,-86.7,-91.42,-96.47
+Adobe Inc.,-95.34,-97.53,-99.16
+Advanced Micro Devices,-99.92,-99.97,-100.0
+AES Corporation,-95.19,-97.18,-98.99
+Aflac,-90.71,-94.09,-97.71
+Agilent Technologies,-92.56,-95.64,-98.4
+Air Products and Chemicals,-86.45,-91.46,-96.52
+Airbnb,-99.82,-99.94,-99.99
+Akamai,-96.91,-98.45,-99.46
+Albemarle Corporation,-98.58,-99.37,-99.82
+Alexandria Real Estate Equities,-88.75,-92.83,-97.09
+Align Technology,-99.5,-99.79,-99.95
+Allegion,-89.4,-93.33,-97.11
+Alliant Energy,-78.19,-85.05,-93.24
+Allstate,-85.26,-90.3,-95.53
+Alphabet Inc. (Class A),-90.38,-93.93,-97.54
+Alphabet Inc. (Class C),-90.67,-94.17,-97.85
+Altria,-80.84,-86.79,-92.97
+Amazon,-95.91,-97.67,-99.2
+Amcor,-87.94,-92.46,-96.7
+Ameren,-80.39,-87.09,-93.67
+American Airlines Group,-99.82,-99.93,-99.99
+American Electric Power,-76.77,-83.44,-91.36
+American Express,-92.63,-95.87,-98.49
+American International Group,-96.99,-98.44,-99.49
+American Tower,-86.76,-91.31,-95.97
+American Water Works,-81.04,-87.18,-93.82
+Ameriprise Financial,-95.65,-97.59,-99.22
+Ametek,-87.04,-91.59,-96.37
+Amgen,-87.32,-91.47,-96.05
+Amphenol,-87.44,-92.05,-96.64
+Analog Devices,-92.87,-95.62,-98.35
+Ansys,-92.47,-95.58,-98.26
+Aon,-82.88,-88.78,-94.62
+APA Corporation,-99.86,-99.94,-99.99
+Apple Inc.,-92.21,-95.06,-97.88
+Applied Materials,-97.63,-98.76,-99.69
+Aptiv,-97.84,-98.89,-99.71
+Arch Capital Group,-85.54,-91.12,-96.04
+Archer-Daniels-Midland,-89.92,-93.99,-97.45
+Arista Networks,-99.33,-99.69,-99.92
+Arthur J. Gallagher & Co.,-79.08,-85.7,-92.25
+Assurant,-89.76,-93.65,-97.35
+AT&T,-79.94,-85.62,-92.75
+Atmos Energy,-79.43,-85.98,-93.56
+Autodesk,-97.58,-98.68,-99.61
+Automatic Data Processing,-83.74,-89.17,-94.82
+AutoZone,-85.76,-90.87,-96.28
+AvalonBay Communities,-86.76,-91.72,-96.44
+Avery Dennison,-91.31,-94.92,-97.89
+Axon Enterprise,-99.7,-99.88,-99.98
+Baker Hughes,-98.7,-99.29,-99.81
+Ball Corporation,-88.78,-93.02,-96.9
+Bank of America,-96.52,-98.06,-99.44
+Bank of New York Mellon,-90.78,-94.52,-97.83
+"Bath & Body Works, Inc.",-99.39,-99.72,-99.93
+Baxter International,-85.05,-89.95,-95.22
+Becton Dickinson,-78.96,-85.0,-93.05
+Berkshire Hathaway,-76.3,-83.16,-91.4
+Best Buy,-98.62,-99.37,-99.83
+Bio-Rad,-91.79,-95.12,-98.01
+Bio-Techne,-91.07,-94.39,-97.76
+Biogen,-98.15,-99.06,-99.72
+BlackRock,-91.57,-94.99,-98.08
+Blackstone,-97.46,-98.67,-99.61
+Boeing,-97.44,-98.67,-99.61
+Booking Holdings,-96.02,-97.83,-99.3
+BorgWarner,-96.54,-98.08,-99.35
+Boston Properties,-92.23,-95.3,-98.31
+Boston Scientific,-92.77,-95.55,-98.33
+Bristol Myers Squibb,-85.46,-90.39,-95.46
+Broadcom Inc.,-97.23,-98.53,-99.56
+Broadridge Financial Solutions,-83.3,-89.19,-94.88
+Brown & Brown,-82.96,-88.86,-94.52
+Brown–Forman,-84.47,-89.85,-95.29
+Builders FirstSource,-99.9,-99.97,-99.99
+Bunge Global SA,-93.49,-96.0,-98.52
+Cadence Design Systems,-93.88,-96.49,-98.69
+Caesars Entertainment,-99.97,-99.99,-100.0
+Camden Property Trust,-86.37,-91.27,-96.7
+Campbell Soup Company,-82.3,-88.4,-94.83
+Capital One,-96.71,-98.18,-99.42
+Cardinal Health,-90.36,-94.15,-97.66
+CarMax,-97.67,-98.82,-99.61
+Carnival,-99.72,-99.88,-99.98
+Carrier Global,-98.25,-99.22,-99.81
+Catalent,-99.03,-99.54,-99.87
+Caterpillar Inc.,-93.41,-96.09,-98.39
+Cboe Global Markets,-87.37,-91.77,-96.6
+CBRE Group,-96.49,-98.22,-99.44
+CDW,-92.08,-95.2,-98.0
+Celanese,-96.18,-97.9,-99.4
+Cencora,-87.6,-91.91,-96.86
+Centene Corporation,-97.69,-98.72,-99.61
+CenterPoint Energy,-87.82,-92.31,-96.3
+CF Industries,-98.46,-99.31,-99.83
+CH Robinson,-88.83,-92.81,-96.99
+Charles River Laboratories,-95.03,-97.29,-98.95
+Charles Schwab Corporation,-96.14,-97.84,-99.2
+Charter Communications,-93.21,-95.81,-98.59
+Chevron Corporation,-91.03,-94.57,-98.13
+Chipotle Mexican Grill,-96.88,-98.31,-99.5
+Chubb Limited,-83.68,-89.12,-95.14
+Church & Dwight,-77.25,-84.4,-91.58
+Cigna,-93.0,-95.89,-98.47
+Cincinnati Financial,-88.73,-92.84,-97.0
+Cintas,-87.89,-92.36,-96.86
+Cisco,-90.0,-93.82,-97.26
+Citigroup,-96.71,-98.2,-99.42
+Citizens Financial Group,-98.01,-99.1,-99.72
+Clorox,-80.69,-86.84,-93.89
+CME Group,-88.47,-93.04,-96.73
+CMS Energy,-77.7,-83.64,-92.09
+Coca-Cola Company (The),-70.69,-78.86,-87.87
+Cognizant,-93.31,-96.1,-98.52
+Colgate-Palmolive,-71.87,-79.4,-89.19
+Comcast,-87.36,-91.65,-96.38
+Comerica,-98.06,-98.98,-99.74
+Conagra Brands,-84.68,-89.88,-95.61
+ConocoPhillips,-96.81,-98.27,-99.47
+Consolidated Edison,-76.32,-83.31,-90.86
+Constellation Brands,-91.62,-94.94,-98.04
+Constellation Energy,-98.28,-99.22,-99.84
+CooperCompanies,-90.83,-94.36,-97.72
+Copart,-88.52,-93.18,-97.29
+Corning Inc.,-93.74,-96.32,-98.69
+Corpay,-94.29,-96.68,-98.79
+Corteva,-97.13,-98.47,-99.56
+CoStar Group,-94.0,-96.55,-98.81
+Costco,-79.54,-85.85,-92.76
+Coterra,-98.17,-99.06,-99.75
+Crown Castle,-86.26,-91.03,-95.97
+CSX,-91.59,-94.73,-97.83
+Cummins,-93.62,-96.05,-98.52
+CVS Health,-87.99,-92.43,-96.54
+Danaher Corporation,-84.54,-90.09,-95.44
+Darden Restaurants,-95.53,-97.72,-99.22
+DaVita Inc.,-92.96,-96.07,-98.52
+Dayforce,-99.48,-99.77,-99.96
+Deckers Brands,-99.11,-99.59,-99.89
+John Deere,-92.63,-95.48,-98.3
+Delta Air Lines,-98.85,-99.4,-99.86
+Devon Energy,-99.52,-99.79,-99.95
+Dexcom,-99.56,-99.81,-99.96
+Diamondback Energy,-99.77,-99.91,-99.98
+Digital Realty,-90.18,-94.05,-97.72
+Discover Financial,-97.37,-98.65,-99.57
+Dollar General,-91.29,-94.51,-97.81
+Dollar Tree,-94.16,-96.86,-98.77
+Dominion Energy,-80.7,-86.59,-93.83
+Domino's,-93.65,-96.16,-98.52
+Dover Corporation,-90.69,-94.39,-97.81
+Dow Inc.,-98.2,-99.02,-99.75
+DR Horton,-97.21,-98.62,-99.58
+DTE Energy,-80.33,-85.68,-92.37
+Duke Energy,-75.57,-82.45,-90.65
+DuPont,-94.77,-96.9,-98.99
+Eastman Chemical Company,-94.13,-96.68,-98.69
+Eaton Corporation,-91.44,-94.8,-98.24
+eBay,-93.83,-96.5,-98.78
+Ecolab,-85.49,-90.45,-96.38
+Edison International,-86.21,-90.97,-95.91
+Edwards Lifesciences,-95.32,-97.32,-99.17
+Electronic Arts,-95.46,-97.32,-99.13
+Elevance Health,-91.92,-95.32,-98.21
+Eli Lilly and Company,-86.7,-91.4,-96.55
+Emerson Electric,-90.16,-94.19,-97.77
+Enphase,-100.0,-100.0,-100.0
+Entergy,-82.96,-88.77,-94.51
+EOG Resources,-98.24,-99.16,-99.76
+EPAM Systems,-99.49,-99.78,-99.95
+EQT,-99.3,-99.67,-99.93
+Equifax,-90.67,-94.41,-97.76
+Equinix,-93.88,-96.5,-98.82
+Equity Residential,-87.64,-92.07,-96.65
+Essex Property Trust,-87.86,-92.25,-96.45
+Estée Lauder Companies (The),-93.62,-96.23,-98.5
+Etsy,-99.97,-99.99,-100.0
+Everest Re,-86.36,-91.35,-95.81
+Evergy,-81.09,-87.68,-94.05
+Eversource,-82.12,-87.84,-93.93
+Exelon,-84.29,-90.03,-95.26
+Expedia Group,-99.52,-99.8,-99.96
+Expeditors International,-86.74,-91.6,-96.56
+Extra Space Storage,-89.84,-93.73,-97.62
+ExxonMobil,-87.84,-92.51,-96.93
+"F5, Inc.",-96.85,-98.25,-99.51
+FactSet,-87.73,-92.38,-97.02
+Fair Isaac,-96.43,-98.06,-99.41
+Fastenal,-89.84,-94.08,-97.74
+Federal Realty,-90.37,-94.04,-97.54
+FedEx,-93.24,-96.18,-98.71
+Fidelity National Information Services,-91.39,-94.74,-97.96
+Fifth Third Bank,-97.27,-98.44,-99.58
+First Solar,-99.85,-99.95,-99.99
+FirstEnergy,-87.17,-91.75,-96.32
+Fiserv,-86.2,-90.74,-96.02
+FMC Corporation,-94.17,-96.74,-98.79
+Ford Motor Company,-96.95,-98.35,-99.45
+Fortinet,-98.95,-99.53,-99.88
+Fortive,-90.74,-94.08,-97.63
+Fox Corporation (Class A),-96.48,-98.09,-99.35
+Fox Corporation (Class B),-96.09,-97.85,-99.37
+Franklin Templeton,-94.45,-96.77,-98.82
+Freeport-McMoRan,-99.76,-99.9,-99.98
+Garmin,-91.64,-94.71,-98.04
+Gartner,-92.68,-95.5,-98.36
+GE Aerospace,-95.08,-97.2,-98.98
+GE HealthCare,-95.75,-97.67,-99.19
+GE Vernova,-99.92,-99.97,-100.0
+Gen Digital,-97.16,-98.56,-99.57
+Generac,-99.27,-99.68,-99.92
+General Dynamics,-83.11,-89.34,-95.25
+General Mills,-76.38,-83.66,-91.49
+General Motors,-96.59,-98.14,-99.4
+Genuine Parts Company,-86.49,-91.68,-96.43
+Gilead Sciences,-90.78,-94.46,-97.74
+Global Payments,-94.06,-96.58,-98.85
+Globe Life,-95.19,-97.25,-99.1
+Goldman Sachs,-92.53,-95.41,-98.15
+Halliburton,-99.32,-99.71,-99.94
+Hartford (The),-95.29,-97.32,-99.11
+Hasbro,-93.99,-96.54,-98.63
+HCA Healthcare,-96.77,-98.29,-99.51
+Healthpeak,-91.93,-95.09,-98.04
+Henry Schein,-86.51,-91.61,-96.46
+Hershey's,-78.91,-84.71,-92.95
+Hess Corporation,-98.89,-99.46,-99.88
+Hewlett Packard Enterprise,-96.81,-98.34,-99.4
+Hilton Worldwide,-92.78,-95.86,-98.22
+Hologic,-92.05,-95.1,-98.06
+Home Depot (The),-85.08,-90.18,-95.42
+Honeywell,-84.58,-89.77,-95.61
+Hormel Foods,-79.98,-85.65,-92.81
+Host Hotels & Resorts,-95.85,-97.77,-99.33
+Howmet Aerospace,-98.96,-99.5,-99.87
+HP Inc.,-96.68,-98.11,-99.36
+Hubbell Incorporated,-90.04,-93.65,-97.29
+Humana,-93.49,-96.35,-98.5
+Huntington Bancshares,-96.57,-98.16,-99.4
+Huntington Ingalls Industries,-91.33,-94.61,-97.96
+IBM,-83.98,-89.53,-95.28
+IDEX Corporation,-86.04,-91.07,-96.09
+Idexx Laboratories,-92.76,-95.75,-98.53
+Illinois Tool Works,-85.16,-90.39,-95.88
+Illumina,-99.16,-99.61,-99.92
+Incyte,-98.89,-99.46,-99.86
+Ingersoll Rand,-96.99,-98.41,-99.47
+Insulet,-98.83,-99.48,-99.87
+Intel,-94.27,-96.74,-98.86
+Intercontinental Exchange,-86.83,-91.16,-95.88
+International Flavors & Fragrances,-90.73,-94.45,-97.62
+International Paper,-94.39,-96.68,-98.81
+Interpublic Group of Companies (The),-96.18,-97.85,-99.29
+Intuit,-92.76,-95.97,-98.47
+Intuitive Surgical,-95.18,-97.24,-99.06
+Invesco,-97.91,-98.94,-99.7
+Invitation Homes,-91.0,-94.38,-97.91
+IQVIA,-91.87,-95.04,-98.09
+Iron Mountain,-92.0,-95.31,-98.18
+J.B. Hunt,-89.37,-93.17,-97.44
+Jabil,-97.72,-98.78,-99.63
+Jack Henry & Associates,-82.17,-88.15,-94.44
+Jacobs Solutions,-91.92,-94.96,-98.15
+Johnson & Johnson,-69.09,-76.46,-86.65
+Johnson Controls,-88.23,-92.79,-96.87
+JPMorgan Chase,-91.61,-94.57,-98.19
+Juniper Networks,-95.27,-97.36,-99.13
+Kellanova,-77.22,-83.72,-92.13
+Kenvue,-88.2,-92.66,-96.77
+Keurig Dr Pepper,-99.79,-99.92,-99.99
+KeyCorp,-98.07,-98.99,-99.66
+Keysight,-93.96,-96.5,-98.6
+Kimberly-Clark,-73.9,-81.41,-89.32
+Kimco Realty,-95.32,-97.27,-99.11
+Kinder Morgan,-93.35,-96.24,-98.44
+KLA Corporation,-97.52,-98.68,-99.57
+Kraft Heinz,-92.0,-95.0,-98.2
+Kroger,-89.81,-93.84,-97.46
+L3Harris,-88.17,-92.42,-96.64
+LabCorp,-87.3,-91.95,-96.52
+Lam Research,-98.18,-99.09,-99.73
+Lamb Weston,-95.99,-97.75,-99.3
+Las Vegas Sands,-98.43,-99.17,-99.79
+Leidos,-92.26,-95.36,-98.33
+Lennar,-97.98,-98.96,-99.67
+Linde plc,-82.51,-87.95,-93.72
+Live Nation Entertainment,-98.24,-99.08,-99.76
+LKQ Corporation,-95.54,-97.64,-99.24
+Lockheed Martin,-80.54,-86.66,-93.17
+Loews Corporation,-86.82,-91.11,-96.45
+Lowe's,-92.02,-95.1,-98.1
+Lululemon Athletica,-98.82,-99.42,-99.86
+LyondellBasell,-97.52,-98.75,-99.66
+M&T Bank,-94.06,-96.47,-98.77
+Marathon Oil,-99.69,-99.86,-99.97
+Marathon Petroleum,-98.7,-99.32,-99.82
+MarketAxess,-96.16,-97.91,-99.31
+Marriott International,-94.41,-96.88,-98.93
+Marsh McLennan,-76.95,-84.79,-92.8
+Martin Marietta Materials,-94.51,-96.76,-99.0
+Masco,-95.8,-97.63,-99.29
+Mastercard,-91.72,-94.84,-98.04
+Match Group,-98.81,-99.43,-99.86
+McCormick & Company,-80.41,-86.77,-94.05
+McDonald's,-74.82,-81.31,-89.58
+McKesson,-90.06,-93.9,-97.56
+Medtronic,-84.09,-89.03,-94.23
+Merck & Co.,-80.49,-86.55,-93.61
+Meta Platforms,-98.74,-99.38,-99.84
+MetLife,-94.89,-97.19,-98.91
+Mettler Toledo,-91.32,-94.6,-97.87
+MGM Resorts,-99.46,-99.77,-99.95
+Microchip Technology,-96.1,-97.85,-99.21
+Micron Technology,-99.59,-99.83,-99.96
+Microsoft,-89.68,-93.85,-97.16
+Mid-America Apartment Communities,-86.08,-90.95,-95.81
+Moderna,-100.0,-100.0,-100.0
+Mohawk Industries,-98.03,-99.02,-99.76
+Molina Healthcare,-98.48,-99.23,-99.81
+Molson Coors Beverage Company,-90.1,-93.92,-97.69
+Mondelez International,-83.83,-88.93,-95.11
+Monolithic Power Systems,-98.71,-99.34,-99.82
+Monster Beverage,-94.19,-96.54,-98.87
+Moody's Corporation,-93.71,-96.11,-98.44
+Morgan Stanley,-96.52,-98.03,-99.36
+Mosaic Company (The),-99.02,-99.51,-99.89
+Motorola Solutions,-87.77,-92.2,-96.57
+MSCI,-94.55,-96.8,-98.88
+"Nasdaq, Inc.",-88.57,-92.57,-96.68
+NetApp,-96.49,-98.12,-99.41
+Netflix,-99.82,-99.93,-99.99
+Newmont,-97.12,-98.5,-99.58
+News Corp (Class A),-93.35,-96.14,-98.77
+News Corp (Class B),-92.95,-95.73,-98.16
+NextEra Energy,-81.91,-88.05,-94.01
+"Nike, Inc.",-91.25,-94.91,-97.9
+NiSource,-83.42,-88.66,-95.18
+Nordson Corporation,-93.41,-96.08,-98.45
+Norfolk Southern Railway,-90.19,-94.27,-97.63
+Northern Trust,-92.17,-95.44,-98.27
+Northrop Grumman,-84.98,-90.01,-95.3
+Norwegian Cruise Line Holdings,-99.93,-99.98,-100.0
+NRG Energy,-97.1,-98.6,-99.59
+Nucor,-95.22,-97.33,-99.02
+Nvidia,-99.38,-99.7,-99.94
+"NVR, Inc.",-93.07,-95.84,-98.48
+NXP Semiconductors,-99.05,-99.52,-99.88
+O'Reilly Auto Parts,-88.74,-92.92,-97.27
+Occidental Petroleum,-99.41,-99.74,-99.94
+Old Dominion,-94.28,-96.67,-98.72
+Omnicom Group,-87.87,-92.27,-97.22
+ON Semiconductor,-99.4,-99.72,-99.94
+ONEOK,-98.28,-99.17,-99.77
+Oracle Corporation,-90.39,-93.95,-97.47
+Otis Worldwide,-90.01,-93.65,-97.45
+Paccar,-90.17,-93.76,-97.3
+Packaging Corporation of America,-91.92,-95.11,-98.08
+Palo Alto Networks,-98.68,-99.35,-99.83
+Paramount Global,-99.02,-99.54,-99.91
+Parker Hannifin,-93.59,-96.35,-98.57
+Paychex,-84.3,-89.4,-95.11
+Paycom,-99.65,-99.85,-99.97
+PayPal,-98.21,-99.11,-99.78
+Pentair,-91.9,-95.66,-98.46
+PepsiCo,-69.07,-77.38,-87.84
+Pfizer,-82.74,-88.21,-93.9
+PG&E Corporation,-99.82,-99.93,-99.99
+Philip Morris International,-82.89,-88.49,-94.28
+Phillips 66,-96.6,-98.07,-99.45
+Pinnacle West,-80.99,-87.22,-93.25
+PNC Financial Services,-92.66,-95.81,-98.43
+Pool Corporation,-93.26,-95.88,-98.42
+PPG Industries,-89.91,-93.58,-97.07
+PPL Corporation,-81.34,-87.48,-93.91
+Principal Financial Group,-95.47,-97.38,-99.27
+Procter & Gamble,-70.93,-78.28,-88.2
+Progressive Corporation,-84.0,-89.56,-95.11
+Prologis,-91.55,-94.85,-98.25
+Prudential Financial,-95.61,-97.39,-99.11
+Public Service Enterprise Group,-81.08,-86.76,-93.17
+PTC,-96.29,-97.92,-99.35
+Public Storage,-83.72,-88.9,-94.71
+PulteGroup,-98.64,-99.33,-99.85
+Qorvo,-99.14,-99.59,-99.91
+Quanta Services,-95.74,-97.75,-99.11
+Qualcomm,-96.17,-97.8,-99.3
+Quest Diagnostics,-84.99,-90.56,-95.34
+Ralph Lauren Corporation,-97.45,-98.54,-99.63
+Raymond James,-94.5,-96.76,-98.79
+RTX Corporation,-87.7,-91.9,-96.35
+Realty Income,-88.5,-92.75,-97.17
+Regency Centers,-92.27,-95.44,-98.27
+Regeneron,-98.18,-99.09,-99.72
+Regions Financial Corporation,-98.09,-99.04,-99.75
+Republic Services,-75.97,-83.13,-91.06
+ResMed,-94.1,-96.67,-98.78
+Revvity,-91.64,-95.09,-98.1
+Robert Half,-94.38,-96.89,-98.9
+Rockwell Automation,-94.34,-96.6,-98.7
+"Rollins, Inc.",-87.97,-92.27,-96.51
+Roper Technologies,-83.87,-89.36,-95.52
+Ross Stores,-93.34,-95.97,-98.56
+Royal Caribbean Group,-99.68,-99.88,-99.98
+S&P Global,-89.03,-93.34,-97.22
+Salesforce,-97.24,-98.56,-99.58
+SBA Communications,-88.34,-92.8,-97.05
+Schlumberger,-97.64,-98.88,-99.71
+Seagate Technology,-98.91,-99.48,-99.89
+Sempra Energy,-81.65,-87.99,-94.29
+ServiceNow,-98.78,-99.4,-99.86
+Sherwin-Williams,-87.93,-92.23,-96.35
+Simon Property Group,-96.27,-97.92,-99.34
+Skyworks Solutions,-98.88,-99.44,-99.87
+J.M. Smucker Company (The),-80.36,-86.79,-93.78
+Snap-on,-89.51,-93.16,-97.33
+Solventum,-98.71,-99.39,-99.82
+Southern Company,-76.93,-83.64,-91.38
+Southwest Airlines,-96.01,-97.85,-99.29
+Stanley Black & Decker,-95.4,-97.44,-99.1
+Starbucks,-90.38,-93.74,-97.74
+State Street Corporation,-95.37,-97.51,-99.26
+Steel Dynamics,-98.1,-99.08,-99.71
+Steris,-88.74,-93.17,-96.95
+Stryker Corporation,-86.81,-91.64,-96.07
+Supermicro,-99.94,-99.98,-100.0
+Synchrony Financial,-98.06,-99.03,-99.73
+Synopsys,-90.12,-93.66,-97.25
+Sysco,-90.11,-94.17,-97.46
+T-Mobile US,-97.54,-98.81,-99.71
+T. Rowe Price,-93.01,-95.62,-98.3
+Take-Two Interactive,-97.38,-98.53,-99.6
+"Tapestry, Inc.",-98.65,-99.33,-99.81
+Targa Resources,-99.81,-99.92,-99.99
+Target Corporation,-91.76,-94.83,-98.04
+TE Connectivity,-90.78,-94.12,-97.6
+Teledyne Technologies,-91.18,-94.66,-97.72
+Teleflex,-89.68,-94.12,-97.52
+Teradyne,-98.19,-99.05,-99.76
+"Tesla, Inc.",-99.94,-99.98,-100.0
+Texas Instruments,-90.88,-94.22,-97.54
+Textron,-97.01,-98.28,-99.45
+Thermo Fisher Scientific,-87.51,-92.31,-96.63
+TJX Companies,-89.06,-93.01,-97.03
+Tractor Supply,-92.65,-95.92,-98.43
+Trane Technologies,-91.43,-94.71,-97.97
+TransDigm Group,-94.92,-97.16,-99.07
+Travelers Companies (The),-83.84,-88.62,-94.77
+Trimble Inc.,-96.59,-98.13,-99.52
+Truist,-94.89,-97.03,-99.07
+Tyler Technologies,-92.7,-95.47,-98.29
+Tyson Foods,-92.52,-95.47,-98.36
+U.S. Bank,-91.76,-95.03,-98.12
+Uber,-99.9,-99.96,-100.0
+"UDR, Inc.",-88.82,-92.66,-96.86
+Ulta Beauty,-98.42,-99.22,-99.8
+Union Pacific Corporation,-88.15,-92.54,-97.05
+United Airlines Holdings,-99.69,-99.87,-99.98
+United Parcel Service,-85.29,-89.85,-95.41
+United Rentals,-99.46,-99.78,-99.96
+UnitedHealth Group,-88.42,-92.51,-96.89
+Universal Health Services,-95.87,-97.74,-99.32
+Valero Energy,-98.36,-99.23,-99.8
+Ventas,-95.95,-97.82,-99.33
+Veralto,-91.31,-94.54,-97.9
+Verisign,-90.11,-93.68,-97.43
+Verisk,-82.13,-87.67,-94.6
+Verizon,-73.66,-81.46,-90.98
+Vertex Pharmaceuticals,-98.99,-99.53,-99.89
+Viatris,-97.09,-98.46,-99.49
+Vici Properties,-96.12,-97.82,-99.27
+Visa Inc.,-87.99,-92.34,-96.88
+Vistra,-97.36,-98.58,-99.53
+Vulcan Materials Company,-95.42,-97.31,-99.09
+W. R. Berkley Corporation,-81.92,-88.32,-94.86
+W. W. Grainger,-90.58,-94.15,-97.55
+Wabtec,-94.42,-96.65,-98.88
+Walgreens Boots Alliance,-92.7,-95.68,-98.37
+Walmart,-76.07,-83.11,-90.34
+Walt Disney Company (The),-89.68,-93.43,-97.47
+Warner Bros. Discovery,-98.37,-99.23,-99.8
+Waste Management,-74.02,-81.46,-89.68
+Waters Corporation,-90.77,-94.43,-97.87
+WEC Energy Group,-79.63,-85.61,-93.11
+Wells Fargo,-93.21,-96.25,-98.79
+Welltower,-93.23,-95.91,-98.55
+West Pharmaceutical Services,-91.08,-94.7,-97.7
+Western Digital,-99.21,-99.65,-99.92
+WestRock,-97.79,-98.9,-99.74
+Weyerhaeuser,-98.73,-99.39,-99.87
+Williams Companies,-98.17,-99.07,-99.75
+Willis Towers Watson,-83.45,-89.16,-95.03
+Wynn Resorts,-99.51,-99.8,-99.95
+Xcel Energy,-77.2,-83.89,-92.13
+Xylem Inc.,-90.25,-93.81,-97.48
+Yum! Brands,-86.79,-91.17,-96.19
+Zebra Technologies,-97.58,-98.8,-99.65
+Zimmer Biomet,-88.85,-92.93,-97.14
+Zoetis,-89.34,-93.42,-96.79
