@@ -8,7 +8,7 @@ We use client's information and their expectations on their current financial st
 ### Usage and Installation:
 - Streamlit as st
 - yfinance as yf
-- prophet
+- Prophet
 - Linear Regression Model
 - variety of any other codes found in the .py files stored in Streamlit
 
